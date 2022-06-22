@@ -1,4 +1,11 @@
 #  {Sobre mim}
+# Seção
+
+## Subseção 1
+_editando perfil_
+
+## Subseção 2
+**editando perfil**
 - 👋 Hi, I’m @marianesilvadalponte
 - 👍:meu e-mail de contato é mariane.dalponte@escola.pr.gov.br
 - 👀 eu estou interresado a programar novas linguagens.
